@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ravi Chudasama</h1>
-<h3 align="center">WordPress Developer | Full-Stack Expertise in WordPress, PHP, React, WooCommerce, and Cloud Solutions | Certified Scrum Master.</h3>
+<h3 align="center">Experienced WordPress Developer specializing in custom themes, plugins, performance optimization, and troubleshooting.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravic-addweb&label=Profile%20views&color=0e75b6&style=flat" alt="ravic-addweb" /> </p>
 
@@ -7,21 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Crafting dynamic, high-performance web applications using MERN stack.**
+- 🔭 I’m currently working on **creating fast, user-friendly WordPress websites and custom themes.**  
 
-- 🌱 I’m currently learning **Modular software design, infrastructure automation, and cloud ecosystems.**
+- 🌱 I’m learning more about **modern WordPress features, better website speed, and cloud hosting.**  
 
-- 👯 I’m looking to collaborate on **Open-source initiatives and innovative projects.**
+- 👯 I’m open to working on **big WordPress projects, plugin development, and open-source contributions.**  
 
-- 🤝 I’m looking for help with **Optimizing backend performance and database scalability.**
+- 🤝 I need help with **making large websites faster, more secure, and better for SEO.**  
 
-- 💬 Ask me about **MERN stack, system architecture, and authentication strategies.**
+- 💬 Ask me about **WordPress development, WooCommerce, theme customization, and improving website performance.**  
 
-- ⚡ Fun fact **I can fix bugs while making coffee! ☕**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+- ⚡ Fun fact **Even after 7 years of working with WordPress, I’m still learning new tricks! 🚀**  
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -48,9 +44,4 @@
 ![Agile](https://img.shields.io/badge/Agile-02569B?style=for-the-badge&logo=agile&logoColor=white) 
 ![Scrum](https://img.shields.io/badge/Scrum-87CEEB?style=for-the-badge&logo=scrumalliance&logoColor=white) 
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ravic-addweb&show_icons=true&locale=en&layout=compact" alt="ravic-addweb" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ravic-addweb&show_icons=true&locale=en" alt="ravic-addweb" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ravic-addweb&" alt="ravic-addweb" /></p>
