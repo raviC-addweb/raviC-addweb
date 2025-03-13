@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **WordPress development, WooCommerce, theme customization, and improving website performance.**  
 
-- ⚡ Fun fact **Even after 7 years of working with WordPress, I’m still learning new tricks! 🚀**  
+- ⚡ Fun fact **Even after 8+ years of working with WordPress, I’m still learning new tricks! 🚀**  
 
 <h3 align="left">Languages and Tools:</h3>
 
